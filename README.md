@@ -1,6 +1,5 @@
-# ---------------------------------
 # Build & Run (Standalone Application)
-# ---------------------------------
+
 build:
 * docker build -t modsec-editor:latest .
 

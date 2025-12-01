@@ -6,9 +6,6 @@ import time
 import socket
 
 # ==============================================================================
-# ⚠️ SECURITY WARNING ⚠️
-# Hardcoded credentials have been REMOVED and replaced with user input via login.
-# ==============================================================================
 SSH_HOST = "YOUR_SERVER_IP"  # Replace with your server IP or hostname
 SSH_PORT = 22
 # The file path specified in the request
